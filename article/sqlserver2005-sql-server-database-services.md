@@ -8,3 +8,5 @@
     2、在安装文件夹的“server”-》“setup”文件夹里找到sqlRUN_SQL.msi文件，
     这个就是sql server database services的安装文件了，执行他来单个安装服务。这样做也是没问题的。
     之后在安装客户端工具和示例就行了。
+
+客户端工具下载连接 :http://www.microsoft.com/zh-cn/download/confirmation.aspx?id=8961 
